@@ -1,4 +1,4 @@
-# Installation from source
+az# Installation from source
 
 1. Verify that you have Go 1.22+ installed
 
